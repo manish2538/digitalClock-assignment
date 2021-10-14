@@ -1,0 +1,28 @@
+#border{
+    border:2px solid black
+  }
+  
+  .white {
+    background-color: white;
+    color: black;
+  }
+  
+  .clock{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+   
+   
+  }
+  
+  h1{
+    padding:4rem;
+    font-size: 5rem;
+  }
+  
+  .black{
+    background-color: black;
+    color: white;
+  }
+  
